@@ -55,6 +55,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure SDK", "Infra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aiursoft.Handler", "Handler\Aiursoft.Handler.csproj", "{88EF000E-1858-4613-8ED5-AFD14F3BD10E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aiursoft.Stargate.SDK", "Stargate.SDK\Aiursoft.Stargate.SDK.csproj", "{82FB2704-0453-41F8-86D3-C5086EE8A4AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -133,6 +135,10 @@ Global
 		{88EF000E-1858-4613-8ED5-AFD14F3BD10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88EF000E-1858-4613-8ED5-AFD14F3BD10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88EF000E-1858-4613-8ED5-AFD14F3BD10E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82FB2704-0453-41F8-86D3-C5086EE8A4AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FB2704-0453-41F8-86D3-C5086EE8A4AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82FB2704-0453-41F8-86D3-C5086EE8A4AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FB2704-0453-41F8-86D3-C5086EE8A4AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -159,6 +165,7 @@ Global
 		{CBDC173E-8039-413E-981A-31D463AC77CB} = {DC83ABF9-E8AB-4495-8596-557657A372C1}
 		{B9687EBA-6767-47F5-9CAD-3448F995EB87} = {528F9F3C-6EED-48D2-B14B-52091AF7FA69}
 		{88EF000E-1858-4613-8ED5-AFD14F3BD10E} = {DC83ABF9-E8AB-4495-8596-557657A372C1}
+		{82FB2704-0453-41F8-86D3-C5086EE8A4AC} = {12274B29-5390-4BD1-A3A2-9EFA35D6C82C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {409FF7E6-F857-4AB5-A12A-731997AB4B56}
