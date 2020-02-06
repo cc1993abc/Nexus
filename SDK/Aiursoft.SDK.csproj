@@ -24,6 +24,7 @@
     <ProjectReference Include="..\XelNaga\Aiursoft.XelNaga.csproj" />
     <ProjectReference Include="..\DocGenerator\Aiursoft.DocGenerator.csproj" />
     <ProjectReference Include="..\Scanner\Aiursoft.Scanner.csproj" />
+    <ProjectReference Include="..\Stargate.SDK\Aiursoft.Stargate.SDK.csproj" />
   </ItemGroup>
 
 </Project>

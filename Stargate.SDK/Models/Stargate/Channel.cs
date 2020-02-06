@@ -3,7 +3,7 @@ using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Aiursoft.SDK.Models.Stargate
+namespace Aiursoft.Stargate.SDK.Models.Stargate
 {
     public class Channel
     {
